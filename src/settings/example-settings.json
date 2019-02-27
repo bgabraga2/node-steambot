@@ -1,0 +1,18 @@
+{
+    "admins": [
+        ""
+    ],
+    "botDisplayName": "",
+    "accountName": "",
+    "accountPass": "",
+    "acceptDonation": false,
+    "secret": {
+        "shared": "",
+        "identity": "",
+        "apikey": ""
+    },
+    "botUrl": "https://x.com/api/bot/1.json",
+    "botUrlPollingInSeconds": 1,
+    "botCheckPollingInSeconds": 1,
+    "botCancelTimeInSeconds": 900
+}
